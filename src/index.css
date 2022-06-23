@@ -15,3 +15,11 @@ code {
 .tes {
   outline: 1px solid salmon;
 }
+
+.tes2 {
+  outline: 1px solid blue;
+}
+
+.tes-wrong {
+  outline: 1px solid blue;
+}
